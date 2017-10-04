@@ -15,4 +15,5 @@ class News extends CI_Controller {
     $data['title'] = "Arsip berita";
     $this->load->view('news/index',$data);
 	}
+
 }
