@@ -41,3 +41,10 @@ Ada beberapa folder dan file yang harus diperhatikan
   ```
   kemudian setelah selesai bikinlah beberapa file didalam folder `views/`  ,`file1.php`,`file2.php`
   jika sudah pada saat kita membuka url `localhost/belajar/index.php/news` seperti ini maka yang akan di load adalah file `index.php` , tetapi jika `localhost/belajar/index.php/news/file1` maka yang akan diload adalah `file1.php` , begitulah seterusnya, jika file tidak ada maka akan memberikan hasil error
+
+#### Membuat Model dan Menampilkan data dari database
+Ada beberapa folder dan file yang harus diperhatikan
+`config/database.php`
+`models/`
+`controllers/`
+`views/`
