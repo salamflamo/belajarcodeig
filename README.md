@@ -1,1 +1,2 @@
-# Belajar Framework [CodeIgniter] (https://codeigniter.com) 
+# Belajar Framework CodeIgniter
+Silahkan kunjungi website [CodeIgniter] (https://codeigniter.com) 
