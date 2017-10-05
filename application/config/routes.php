@@ -1,6 +1,11 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
+//this is Commer's route, everything is here
+$route['commer'] = 'commer';
+$route['commer/(:any)'] = 'commer/view/$1';
+
+//this is try for ci routes
 $route['news'] = 'news';
 $route['news/create'] = 'news/create';
 $route['news/update/(:any)'] = 'news/update/$1';

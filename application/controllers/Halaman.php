@@ -10,9 +10,9 @@ class Halaman extends CI_Controller {
 
 	public function view($halaman = 'test')
 	{
-		if (!file_exists(APPPATH."views/pages/".$halaman.'.php')) {
-			show_404();
-		}
+		// if (!file_exists(APPPATH."views/pages/".$halaman.'.php')) {
+		// 	show_404();
+		// }
 
 		$data['judul'] = $halaman;
 
