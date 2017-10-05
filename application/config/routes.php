@@ -4,6 +4,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 //this is Commer's route, everything is here
 $route['commer'] = 'commer';
 $route['commer/(:any)'] = 'commer/view/$1';
+$route['commer/mendaftar'] = 'commer/mendaftar';
 
 //this is try for ci routes
 $route['news'] = 'news';

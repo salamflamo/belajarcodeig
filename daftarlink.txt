@@ -1,1 +1,2 @@
 https://stackoverflow.com/questions/29794513/integrate-bootstrap-on-codeigniter
+https://craftpip.github.io/jquery-confirm/
